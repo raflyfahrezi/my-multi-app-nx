@@ -6,5 +6,7 @@ export const sGlobal = css`
     margin: 0;
 
     box-sizing: border-box;
+
+    font-family: 'Montserrat';
   }
 `;

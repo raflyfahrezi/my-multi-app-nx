@@ -7,9 +7,11 @@
   "dependencies": {
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
+    "@fontsource/montserrat": "4.5.14",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.3"
+    "react-router-dom": "6.4.3",
+    "vite-plugin-fonts": "0.7.0"
   },
   "devDependencies": {
     "@emotion/babel-plugin": "11.10.5",
